@@ -1,6 +1,18 @@
 Ce projet consiste à explorer uun dataFrame contenant les différentes modifications apportées auu noyau linux sur ces dernières années.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GabiDjibril/Exploring_linux/HEAD)
 
+| 1502382966#Linus Torvalds    |
+|------------------------------|
+| 1501368308#Max Gurtovoy      |
+| 1501625560#James Smart       |
+| 1501625559#James Smart       |
+| 1500568442#Martin Wilck      |
+| 1502273719#Xin Long          |
+| 1502278684#Nikolay Borisov   |
+| 1502238384#Girish Moodalbail |
+| 1502228709#Florian Fainelli  |
+| 1502223836#Jon Paul Maloy    |
+
 1.Introduction
 
 In this notebook, we will analyze the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. Our dataset at hand contains the history of kernel development of almost 13 years (early 2005 - late 2017). We get some insights into the work of the development efforts by identifying the TOP 10 contributors and visualizing the commits over the years.
